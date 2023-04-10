@@ -60,7 +60,7 @@ div.ellipsis {
   height: 100%;
   overflow: hidden;
   text-overflow: ellipsis;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
 }
 
 .octicon {
